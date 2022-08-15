@@ -5,17 +5,18 @@ Hello there it's Neha Pandey.
 
 ## Challenges
 There were lots of challenges in this projects like:
+- media query
 - Header section and footer section
-- use of flexbox 
-- width cal()
+- flexbox 
+- width & height
 - selectors
 - position
 - created circle in css
 - created greater than symbol in css
 
-### ## Total time to complete this project
+### Total time to complete this project
 
-I could be able to complete this project in 3.5 hours.
+It took me 8 hrs to complete this project.
 
 
 ![Image](./project9-img.png)
